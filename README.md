@@ -1,5 +1,8 @@
 # NebulonInvasion
 
+# Youtube:
+https://youtu.be/__VjltOtjWE
+
 # GitHub Repo:
 https://github.com/mcglauflins/NebulonInvasion/
 
@@ -31,5 +34,5 @@ In "Nebulon Invasion", I interpreted the theme "Everything is Alive" through a s
   -Health Pickups: Collect these to restore health
 
 # Development Notes
-The game utilizes a custom guidance system that provides contextual information to the player through triggers placed at strategic points. A checkpoint system ensures progress is saved, while the health management system creates tension during encounters with the underground creatures. The contrast between the presumed lifeless world and the reality discovered underground reinforces our theme that life exists even where we least expect it.
+The game utilizes a custom guidance system that provides contextual information to the player through triggers placed at strategic points. A checkpoint system ensures progress is saved, while the health management system creates tension during encounters with the underground creatures. The contrast between the presumed lifeless world and the reality discovered underground reinforces our theme that life exists even where we least expect it. When project was built, the entire system got corrupted and I spent a lot of time today trying to fix it. I do not have a build but will try and restore. If you see anything wrong please help! 
 
